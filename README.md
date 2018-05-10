@@ -12,7 +12,11 @@ If you open a square with 0 neighboring bombs, all its neighbors will automatica
 This can cause a large area to automatically open.
 
 MATHEMATICAL BACKGROUND
+
 Probability of finding a mine =minessize*size
+
 Beginner  level = 10/81 =0.12
+
 Intermediate level =40/256=0.15
+
 Advanced level=99/576=0.17
